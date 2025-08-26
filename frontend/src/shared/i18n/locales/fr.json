@@ -1,0 +1,59 @@
+{
+  "auth": {
+    "welcome": "Bienvenue",
+    "welcomeSubtitle": "Connectez-vous à votre compte pour travailler avec l'audio",
+    "createAccount": "Créer un compte",
+    "createAccountSubtitle": "Rejoignez la communauté des éditeurs audio",
+    "forgotPassword": "Mot de passe oublié",
+    "forgotPasswordSubtitle": "Entrez votre email pour recevoir les instructions",
+    "checkEmail": "Vérifiez votre email",
+    "checkEmailSubtitle": "Nous avons envoyé les instructions de récupération de mot de passe à votre email",
+    "backToSignIn": "Retour à la connexion",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "signingIn": "Connexion...",
+    "creatingAccount": "Création du compte...",
+    "sending": "Envoi...",
+    "sendInstructions": "Envoyer les instructions",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "fullName": "Nom complet",
+    "rememberMe": "Se souvenir de moi",
+    "forgotPasswordLink": "Mot de passe oublié ?",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "or": "ou",
+    "google": "Google",
+    "twitter": "Twitter",
+    "agreeToTerms": "J'accepte les",
+    "termsOfService": "conditions d'utilisation",
+    "and": "et la",
+    "privacyPolicy": "politique de confidentialité"
+  },
+  "validation": {
+    "emailRequired": "L'email est requis",
+    "emailInvalid": "Veuillez entrer un email valide",
+    "passwordRequired": "Le mot de passe est requis",
+    "passwordMinLength": "Le mot de passe doit contenir au moins 6 caractères",
+    "passwordMinLength8": "Le mot de passe doit contenir au moins 8 caractères",
+    "passwordPattern": "Le mot de passe doit contenir des lettres et des chiffres",
+    "confirmPasswordRequired": "Veuillez confirmer votre mot de passe",
+    "passwordsMustMatch": "Les mots de passe doivent correspondre",
+    "nameRequired": "Le nom est requis",
+    "nameMinLength": "Le nom doit contenir au moins 2 caractères",
+    "agreeToTermsRequired": "Vous devez accepter les conditions"
+  },
+  "passwordRequirements": {
+    "minLength": "Au moins 8 caractères",
+    "lowercase": "Lettre minuscule",
+    "uppercase": "Lettre majuscule",
+    "number": "Chiffre"
+  },
+  "toast": {
+    "success": "Succès",
+    "error": "Erreur",
+    "warning": "Avertissement",
+    "info": "Information"
+  }
+}

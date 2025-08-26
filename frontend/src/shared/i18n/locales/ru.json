@@ -1,0 +1,59 @@
+{
+  "auth": {
+    "welcome": "Добро пожаловать",
+    "welcomeSubtitle": "Войдите в свой аккаунт для работы с аудио",
+    "createAccount": "Создать аккаунт",
+    "createAccountSubtitle": "Присоединяйтесь к сообществу аудио-редакторов",
+    "forgotPassword": "Восстановление пароля",
+    "forgotPasswordSubtitle": "Введите email для получения инструкций",
+    "checkEmail": "Проверьте почту",
+    "checkEmailSubtitle": "Мы отправили инструкции по восстановлению пароля на ваш email",
+    "backToSignIn": "Вернуться к входу",
+    "signIn": "Войти",
+    "signUp": "Зарегистрироваться",
+    "signingIn": "Вход...",
+    "creatingAccount": "Создание аккаунта...",
+    "sending": "Отправка...",
+    "sendInstructions": "Отправить инструкции",
+    "email": "Email",
+    "password": "Пароль",
+    "confirmPassword": "Подтвердите пароль",
+    "fullName": "Полное имя",
+    "rememberMe": "Запомнить меня",
+    "forgotPasswordLink": "Забыли пароль?",
+    "noAccount": "Нет аккаунта?",
+    "haveAccount": "Уже есть аккаунт?",
+    "or": "или",
+    "google": "Google",
+    "twitter": "Twitter",
+    "agreeToTerms": "Я соглашаюсь с",
+    "termsOfService": "условиями использования",
+    "and": "и",
+    "privacyPolicy": "политикой конфиденциальности"
+  },
+  "validation": {
+    "emailRequired": "Email обязателен",
+    "emailInvalid": "Введите корректный email",
+    "passwordRequired": "Пароль обязателен",
+    "passwordMinLength": "Пароль должен содержать минимум 6 символов",
+    "passwordMinLength8": "Пароль должен содержать минимум 8 символов",
+    "passwordPattern": "Пароль должен содержать буквы и цифры",
+    "confirmPasswordRequired": "Подтвердите пароль",
+    "passwordsMustMatch": "Пароли должны совпадать",
+    "nameRequired": "Имя обязательно",
+    "nameMinLength": "Имя должно содержать минимум 2 символа",
+    "agreeToTermsRequired": "Необходимо согласиться с условиями"
+  },
+  "passwordRequirements": {
+    "minLength": "Минимум 8 символов",
+    "lowercase": "Строчная буква",
+    "uppercase": "Заглавная буква",
+    "number": "Цифра"
+  },
+  "toast": {
+    "success": "Успешно",
+    "error": "Ошибка",
+    "warning": "Предупреждение",
+    "info": "Информация"
+  }
+}

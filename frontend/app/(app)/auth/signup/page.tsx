@@ -1,3 +1,1 @@
-export default function SignUpPage() {
-	return <>SignUp</>;
-}
+export { SignUpPage as default } from "@app/pages/auth";

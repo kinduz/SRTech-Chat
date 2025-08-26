@@ -1,1 +1,1 @@
-export * from "./layout";
+export { AuthLayout } from "./layout";

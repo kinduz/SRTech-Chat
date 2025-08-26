@@ -1,0 +1,59 @@
+{
+  "auth": {
+    "welcome": "Welcome",
+    "welcomeSubtitle": "Sign in to your account to work with audio",
+    "createAccount": "Create Account",
+    "createAccountSubtitle": "Join the audio editing community",
+    "forgotPassword": "Forgot Password",
+    "forgotPasswordSubtitle": "Enter your email to receive instructions",
+    "checkEmail": "Check Your Email",
+    "checkEmailSubtitle": "We've sent password recovery instructions to your email",
+    "backToSignIn": "Back to Sign In",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signingIn": "Signing in...",
+    "creatingAccount": "Creating account...",
+    "sending": "Sending...",
+    "sendInstructions": "Send Instructions",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "rememberMe": "Remember me",
+    "forgotPasswordLink": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "or": "or",
+    "google": "Google",
+    "twitter": "Twitter",
+    "agreeToTerms": "I agree to the",
+    "termsOfService": "Terms of Service",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "validation": {
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email",
+    "passwordRequired": "Password is required",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "passwordMinLength8": "Password must be at least 8 characters",
+    "passwordPattern": "Password must contain letters and numbers",
+    "confirmPasswordRequired": "Please confirm your password",
+    "passwordsMustMatch": "Passwords must match",
+    "nameRequired": "Name is required",
+    "nameMinLength": "Name must be at least 2 characters",
+    "agreeToTermsRequired": "You must agree to the terms"
+  },
+  "passwordRequirements": {
+    "minLength": "At least 8 characters",
+    "lowercase": "Lowercase letter",
+    "uppercase": "Uppercase letter",
+    "number": "Number"
+  },
+  "toast": {
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Information"
+  }
+}
